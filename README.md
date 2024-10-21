@@ -2,7 +2,7 @@
 
 Este repositório é uma introdução básica sobre como utilizar Git e GitHub para versionar seus projetos.
 
-## 📋 Índice
+## :clipboard: Índice
 
 - [Clonando um Repositório](#clonando-um-repositório)
 - [Fazendo Alterações e Commit](#fazendo-alterações-e-commit)

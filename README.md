@@ -20,4 +20,6 @@ git remote add origin https://github.com/usuario/nome-do-repositorio.git
 git push -u origin main
 
 
-![Git e Github]([https://exemplo.com/logo.png](https://inklysaraujo.com.br/wp-content/uploads/2022/10/git-vs-github.png))
+![Git e Github](https://inklysaraujo.com.br/wp-content/uploads/2022/10/git-vs-github.png)
+
+<img src="https://inklysaraujo.com.br/wp-content/uploads/2022/10/git-vs-github.png" alt="Texto alternativo" width="300"/>

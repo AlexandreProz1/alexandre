@@ -2,17 +2,19 @@
 
 Este repositório é uma introdução básica sobre como utilizar Git e GitHub para versionar seus projetos.
 
-## :clipboard: Índice
+## 📋 Índice
 
-- [Clonando um Repositório](#clonando-um-repositório)
-- [Fazendo Alterações e Commit](#fazendo-alterações-e-commit)
-- [Enviando para o GitHub](#enviando-para-o-github)
 - [Criando um Novo Repositório](#criando-um-novo-repositório)
-- [Contribuindo em Projetos](#contribuindo-em-projetos)
 
-## 📂 Clonando um Repositório
+## 🆕 Criando um Novo Repositório
 
-Para clonar um repositório existente do GitHub para a sua máquina, use o comando:
+git init
 
-```bash
-git clone https://github.com/usuario/nome-do-repositorio.git
+
+## 🔄 Adicione o repositório remoto ao repositório local:
+
+git remote add origin https://github.com/usuario/nome-do-repositorio.git
+
+## ⬆️ Envie os arquivos para o GitHub:
+
+git push -u origin main

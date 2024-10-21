@@ -18,3 +18,6 @@ git remote add origin https://github.com/usuario/nome-do-repositorio.git
 ## ⬆️ Envie os arquivos para o GitHub:
 
 git push -u origin main
+
+
+![Git e Github]([https://exemplo.com/logo.png](https://inklysaraujo.com.br/wp-content/uploads/2022/10/git-vs-github.png))
